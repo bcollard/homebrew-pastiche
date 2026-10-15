@@ -1,6 +1,6 @@
 cask "pastiche" do
-  version "1.1.0"
-  sha256 "8d630f923dde1151e9f244124129d4342d1bd8971e1a1a4f39f801c4c23d3f76"
+  version "1.2.0"
+  sha256 "1e84dbc359a792397ffe3f47138a9a36ade484c4f28f37745430dc435de9ebde"
 
   url "https://github.com/bcollard/pastiche/releases/download/v#{version}/Pastiche-#{version}.zip"
   name "Pastiche"
